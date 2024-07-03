@@ -77,7 +77,7 @@ public class Ecommerce {
 	 			guest.ViewProductItem();
 	 			break;
 	 		default:
-					System.out.println("invalid choice");
+					System.out.println("Invalid choice");
 			}	
 			System.out.println("If you want to continue then enter 'Yes' else enter anything");
 			s = scanner.next();
